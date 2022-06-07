@@ -1,0 +1,24 @@
+.testMargin {
+  margin-right: 1rem;
+}
+.inputWithLabel {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+.inputBox {
+  border: 1px solid black;
+  padding: 1rem;
+}
+
+.resultBox {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  justify-content: flex-end;
+}
+
+.resultButton {
+  width: 100px;
+}
